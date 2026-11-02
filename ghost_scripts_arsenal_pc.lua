@@ -1,4 +1,4 @@
--- Ghost Scripts v1 Beta (Arsenal) - VERSAO PARA PC (teclado e mouse)
+-- Ghost Scripts v2  (Arsenal) - VERSAO PARA PC (teclado e mouse)
 -- All UI sections error‑isolated
 local PHIL_UIS = game:GetService("UserInputService")
 -- VERSAO PC: teclado e mouse (sem caminhos de toque)
