@@ -1,8 +1,8 @@
--- Ghost Scripts v1 Beta (Arsenal) - VERSAO MOBILE (touch)
+-- Ghost Scripts v2  (Arsenal) - VERSAO MOBILE (touch)
 -- All UI sections error‑isolated
 
 -- ============================================================
--- ADAPTACAO MOBILE (touch) - Ghost Scripts v1 Beta (Arsenal)
+-- ADAPTACAO MOBILE (touch) - Ghost Scripts v2  (Arsenal)
 -- ============================================================
 local PHIL_UIS = game:GetService("UserInputService")
 -- VERSAO MOBILE: forca o caminho de toque, independente do hardware
