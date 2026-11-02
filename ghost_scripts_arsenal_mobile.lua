@@ -216,7 +216,7 @@ if Camera then
     windowSize = UDim2.fromOffset(math.max(320, math.min(550, vp.X - 12)), math.max(300, math.min(600, vp.Y - 60)))
 end
 local Window = Library:CreateWindow({
-    Title = "Ghost Scripts v1 beta (Mobile)",
+    Title = "Ghost Scripts v2 (Mobile)",
     Center = true,
     AutoShow = true,
     TabPadding = 8,
