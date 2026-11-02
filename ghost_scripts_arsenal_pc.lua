@@ -192,7 +192,7 @@ end
 -- ===== WINDOW =====
 -- PC: janela fixa, abre/fecha com a tecla Insert
 local Window = Library:CreateWindow({
-    Title = "Ghost Scripts v1 beta (PC)",
+    Title = "Ghost Scripts v2 (PC)",
     Center = true,
     AutoShow = true,
     TabPadding = 8,
